@@ -1,4 +1,4 @@
-# lucene-cranfield
+# CS7IS3-Lucene-Cranfield
 CA Project 1 for CS7IS3 Information Retrieval and Web Search
 
 ##  Getting Started
