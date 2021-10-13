@@ -1,4 +1,4 @@
-# lucene-cranfield
+# CS7IS3-Lucene-Cranfield
 CA Project 1 for CS7IS3 Information Retrieval and Web Search
 
 ##  Getting Started
@@ -13,7 +13,7 @@ mv trec_eval /usr/local/bin/
 
 ###   Setting up the project
 ```
-git clone https://github.com/ruthbrennankk/lucene-cranfield.git
+git clone https://github.com/ruthbrennankk/CS7IS3-Lucene-Cranfield.git
 cd lucene-cranfield
 ./run.sh
 ```
